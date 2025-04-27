@@ -1,0 +1,12 @@
+/* Global font styles */
+
+html, body {
+  font-family: 'Inter', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input, textarea, code, pre {
+  font-family: 'Fira Mono', 'Roboto Mono', 'Source Code Pro', 'Menlo', monospace;
+  font-variant-ligatures: none;
+} 
